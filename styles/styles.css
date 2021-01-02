@@ -336,7 +336,8 @@ footer h4 {
     }
 
     footer ul.flex {
-       flex-direction: row;
+       flex-direction: row-reverse;
+       justify-content: space-evenly;
     }
 
     footer li {
